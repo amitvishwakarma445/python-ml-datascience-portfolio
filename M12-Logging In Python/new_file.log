@@ -1,0 +1,5 @@
+2025-03-27 21:50:50,751 - my_module- DEBUG - debug message
+2025-03-27 21:50:50,752 - my_module- INFO - Just an information message
+2025-03-27 21:50:50,752 - my_module- WARNING - It is a warning message
+2025-03-27 21:50:50,752 - my_module- ERROR - Did you try to divide by zero?
+2025-03-27 21:50:50,753 - my_module- CRITICAL - Internet is down
